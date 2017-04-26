@@ -1,3 +1,3 @@
 # DUTensorflow_workshop
 
-[Presentation link](https://github.com/psnegi/DUTensorflow_workshop/blob/master/tensorflow_overview.html)
+[Presentation link](https://rawgit.com/psnegi/DUTensorflow_workshop/master/tensorflow_overview.html)
